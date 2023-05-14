@@ -1,4 +1,4 @@
-# IoT-Project
+# CAN bus simulation project on MATLAB/Simulink/ThingSpeak
 
 ## Introduction
 
